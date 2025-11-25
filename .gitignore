@@ -1,0 +1,50 @@
+.env
+.venv_gemini_demo/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.tox
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Frontend
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Vercel
+.vercel
+
+# Audio/Video temp files
+temp_audio/
+temp_images/
+uploads/
+
+# VOSK models
+vosk-model*/
+
+# Logs
+*.log
+logs/
